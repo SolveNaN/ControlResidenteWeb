@@ -1,0 +1,94 @@
+﻿<!-- ======= Portfolio Section ======= -->
+<section id="portfolio" class="portfolio">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Áreas Comúnes</h2>
+            <p>Configuracion general, habilitar y desabilitar espacios</p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="portfolio-flters">
+                    <li data-filter="*" class="filter-active">All</li>
+                    <li data-filter=".filter-app">App</li>
+                    <li data-filter=".filter-card">Card</li>
+                    <li data-filter=".filter-web">Web</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row portfolio-container">
+            @foreach(var i in AreaComunes)
+            {
+                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <div class="portfolio-wrap" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" style="cursor:pointer" @onclick="()=>AsignarArea(i)">
+                        <img src=@i.NombreImagen class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4>Solicitudes: @i.NumeroSolicitude</h4>
+                            <p>Ver</p>
+                            <div class="portfolio-links">
+                                <a href=@i.NombreImagen data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+                    
+
+        </div>
+
+    </div>
+</section><!-- End Portfolio Section -->
+<!-- Button trigger modal -->
+
+
+
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+    <div class="offcanvas-header"> 
+        <br />
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <FormularioAreasComunes arear="miarea" />
+    </div>
+</div>
+@code{
+    AreaComun miarea = new AreaComun();
+    public static List<AreaComun> AreaComunes = new List<AreaComun>
+    {
+      new AreaComun
+      {
+          Id=1,
+          Nombre="Piscina",
+          Description="Numero maximo de tres solicitudes por mes",
+          Habilitado=1,
+          NombreImagen="assets/img/portfolio/Piscina.jpg",
+          NumeroSolicitude=4,
+      },
+      new AreaComun
+      {
+          Id=2,
+          Nombre="Cancha",
+          Description="Numero maximo de tres solicitudes por mes",
+          Habilitado=1,
+          NombreImagen="assets/img/portfolio/Cancha.jpg",
+          NumeroSolicitude=5,
+      },
+       new AreaComun
+      {
+          Id=3,
+          Nombre="Area Social",
+          Description="Numero maximo de tres solicitudes por mes",
+          Habilitado=1,
+          NombreImagen="assets/img/portfolio/Social.jpg",
+          NumeroSolicitude=5,
+      },
+
+    };
+
+    void AsignarArea(AreaComun a){
+        miarea = a;
+    }
+}

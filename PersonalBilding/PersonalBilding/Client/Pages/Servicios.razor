@@ -1,0 +1,121 @@
+﻿<!-- ======= Services Section ======= -->
+<section id="services" class="services">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Servicios</h2>
+            <p>Administracion facil y rapida en una sola pagina</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100" data-bs-toggle="modal" data-bs-target="#exampleMoAres" style="cursor:pointer">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                    <h4 class="title"><a href="">Areas Comunes</a></h4>
+                    <p class="description">Solicitudes y Estado, habilitar y desabilitar espacios</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200" data-bs-toggle="modal" data-bs-target="#docs" style="cursor:pointer">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-file"></i></div>
+                    <h4 class="title"><a href="">Documentos</a></h4>
+                    <p class="description">Manuales, comunicados, Acuerdos, Reglamentos</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-bs-toggle="modal" data-bs-target="#exampleModalToggle" data-aos="fade-up" data-aos-delay="300" style="cursor:pointer">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-layer"></i></div>
+                    <h4 class="title"><a href="">Finanzas</a></h4>
+                    <p class="description">Pagos, Deudas, Historial, Reportes</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="400">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-tachometer"></i></div>
+                    <h4 class="title"><a href="">Encuestas</a></h4>
+                    <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Services Section -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleMoAres" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div style="margin:20px">
+                    <AreasComunes />
+                </div>
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+               
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="docs" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <DocumentosList />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalToggleLabel">Modal 1</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Show a second modal and hide this one with the button below.
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" data-bs-target="#exampleModalToggle2" data-bs-toggle="modal">Open second modal</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalToggleLabel2">Modal 2</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Hide this modal and show the first with the button below.
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal">Back to first</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

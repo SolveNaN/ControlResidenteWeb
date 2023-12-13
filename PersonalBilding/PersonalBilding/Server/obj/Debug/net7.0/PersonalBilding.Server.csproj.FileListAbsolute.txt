@@ -1,0 +1,166 @@
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.staticwebassets.runtime.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.staticwebassets.runtime.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.exe
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.deps.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.runtimeconfig.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.AssemblyReference.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfoInputs.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfo.cs
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cs
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.PersonalBilding.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.PersonalBilding.Server.props
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PersonalBilding.Server.props
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PersonalBilding.Server.props
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\scopedcss\bundle\PersonalBilding.Server.styles.css
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CopyComplete
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\refint\PersonalBilding.Server.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.genruntimeconfig.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\ref\PersonalBilding.Server.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.staticwebassets.runtime.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.staticwebassets.runtime.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.exe
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.deps.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.runtimeconfig.json
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.pdb
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.dll
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.pdb
+D:\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.AssemblyReference.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfoInputs.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfo.cs
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CoreCompileInputs.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cs
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.PersonalBilding.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.PersonalBilding.Server.props
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PersonalBilding.Server.props
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PersonalBilding.Server.props
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\scopedcss\bundle\PersonalBilding.Server.styles.css
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CopyComplete
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.dll
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\refint\PersonalBilding.Server.dll
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.pdb
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.genruntimeconfig.cache
+D:\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\ref\PersonalBilding.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\appsettings.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.staticwebassets.runtime.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.staticwebassets.runtime.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.exe
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.deps.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.runtimeconfig.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Server.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Client.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.AssemblyReference.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfoInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.AssemblyInfo.cs
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CoreCompileInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.RazorAssemblyInfo.cs
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.PersonalBilding.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.PersonalBilding.Server.props
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PersonalBilding.Server.props
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PersonalBilding.Server.props
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\scopedcss\bundle\PersonalBilding.Server.styles.css
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.csproj.CopyComplete
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\refint\PersonalBilding.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\PersonalBilding.Server.genruntimeconfig.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\obj\Debug\net7.0\ref\PersonalBilding.Server.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Server\bin\Debug\net7.0\BlazorBootstrap.dll

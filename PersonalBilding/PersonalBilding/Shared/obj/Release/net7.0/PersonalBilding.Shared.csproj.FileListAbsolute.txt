@@ -1,0 +1,11 @@
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Release\net7.0\PersonalBilding.Shared.deps.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Release\net7.0\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Release\net7.0\PersonalBilding.Shared.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.AssemblyInfoInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.AssemblyInfo.cs
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.csproj.CoreCompileInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\refint\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\PersonalBilding.Shared.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Release\net7.0\ref\PersonalBilding.Shared.dll

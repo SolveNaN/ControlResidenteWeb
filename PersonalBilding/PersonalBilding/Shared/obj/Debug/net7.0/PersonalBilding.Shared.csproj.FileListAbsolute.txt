@@ -1,0 +1,33 @@
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.deps.json
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfoInputs.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfo.cs
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\refint\PersonalBilding.Shared.dll
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\Proyectos Visual Studio\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\ref\PersonalBilding.Shared.dll
+D:\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.deps.json
+D:\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.dll
+D:\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfoInputs.cache
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfo.cs
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.csproj.CoreCompileInputs.cache
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.dll
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\refint\PersonalBilding.Shared.dll
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.pdb
+D:\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\ref\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.deps.json
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\bin\Debug\net7.0\PersonalBilding.Shared.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfoInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.AssemblyInfo.cs
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.csproj.CoreCompileInputs.cache
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\refint\PersonalBilding.Shared.dll
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\PersonalBilding.Shared.pdb
+C:\ProyectosFree\PersonalBilding\PersonalBilding\Shared\obj\Debug\net7.0\ref\PersonalBilding.Shared.dll
